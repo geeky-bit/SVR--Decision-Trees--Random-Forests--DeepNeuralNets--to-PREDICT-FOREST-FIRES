@@ -1,5 +1,6 @@
 ##  This notebook is an implementation of the work shown in the paper :
-### http://www.dsi.uminho.pt/~pcortez/fires.pdf
+
+***This repo is an implementation of the research paper "A Data Mining Approach to Predict Forest Fires using Meteorological Data." by P. Cortez and A. Morais. http://www.dsi.uminho.pt/~pcortez/fires.pdf***
 
 
 ***Using Regression to predict Forest Fires*** 
