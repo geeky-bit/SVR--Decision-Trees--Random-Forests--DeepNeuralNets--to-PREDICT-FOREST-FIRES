@@ -3,8 +3,7 @@
 ***This repo is an implementation of the research paper "A Data Mining Approach to Predict Forest Fires using Meteorological Data." by P. Cortez and A. Morais. http://www.dsi.uminho.pt/~pcortez/fires.pdf***
 
 
-***Using Regression to predict Forest Fires*** 
-
+***Using Regression to predict Forest Fires ::*** 
 This is a regression task, where the aim is to predict the burned area of forest fires, in the northeast region of Portugal, by using meteorological and other data. 
 Collected from [UCI ML repository](http://archive.ics.uci.edu/ml/index.php). Details can be found -  (http://archive.ics.uci.edu/ml/datasets/Forest+Fires).
 
