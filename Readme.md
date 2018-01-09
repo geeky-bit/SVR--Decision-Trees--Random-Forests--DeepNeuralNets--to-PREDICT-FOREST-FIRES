@@ -1,4 +1,5 @@
-##  This notebook is an implementation of the work shown in the paper : http://www.dsi.uminho.pt/~pcortez/fires.pdf
+##  This notebook is an implementation of the work shown in the paper :***
+http://www.dsi.uminho.pt/~pcortez/fires.pdf
 
 
 ***Using Regression to predict Forest Fires*** 
